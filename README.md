@@ -9,7 +9,7 @@
 
 ## Praticando (2) … Adivinhação de palavras
 
-1. Crie uma página de adivinhação de palavras. O jogador deve
+2. Crie uma página de adivinhação de palavras. O jogador deve
    tentar acertar letra por letra.
 
    - Para cada acerto, a página deve exibir a letra dentro
