@@ -2,7 +2,7 @@ import type { NextPage } from 'next'
 import { useState } from 'react'
 
 const Home: NextPage = () => {
-  const [font, setFontSize] = useState(0)
+  const [font, setFontSize] = useState(10)
 
   const inc = () => {
     setFontSize(font + 1)
